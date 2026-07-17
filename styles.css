@@ -107,6 +107,16 @@ section {
   background: #fff;
 }
 
+.allergy-warning {
+  margin: 10px 0 0;
+  padding: 12px 14px;
+  border: 1px solid #d93a2a;
+  border-radius: 10px;
+  background: #fff4f2;
+  color: #a92a1f;
+  font-weight: 700;
+}
+
 .menu-item h3 {
   margin-top: 0;
 }
